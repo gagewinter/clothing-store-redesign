@@ -1,0 +1,159 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	
+}
+
+.container {
+	max-width: 90%;
+	margin: 0 auto;
+}
+
+
+.logo {
+	float: left;
+	font-weight: 700;
+	font-size: 36px;
+	display: inline-block;
+	letter-spacing: 1px;
+}
+
+.logo a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.menu {
+	float: right;
+}
+
+.menu li {
+	list-style: none;
+	display: inline-block;
+
+}
+
+
+.menu a {
+	text-decoration: none;
+	font-size: 16px;
+	float: right;
+	padding: 10px 15px;
+	font-weight: 500;
+	text-transform: uppercase;
+	color: #000000;
+	letter-spacing: 1px;
+}
+
+.model img {
+	float: left;
+	display: inline-block;
+	max-width: 500px;
+	margin-top: 6%;
+}
+.content-area {
+	display: inline-block;
+	max-width: 420px;
+	position: relative;
+		top:30px;
+		left:40px;
+		bottom:40px;
+		right:auto;
+	padding-bottom: 20px;
+}
+
+
+h5 {
+
+	display: inline-block;
+	padding: 5px;
+	background: #0202D9;
+	text-transform: uppercase;
+	font-weight: 500;
+	font-size: 9px;
+	color: #FFFFFF;
+	letter-spacing: 1px;
+	margin-bottom: 15px 0;
+}
+
+
+.content-area h1 {
+	font-weight: 700;
+	font-size: 30px;
+	margin-bottom: 15px 0;
+	letter-spacing: 1px;
+}
+
+.content-area p {
+	font-weight: 100;
+	font-size: 15px;
+	line-height: 1.5;
+	letter-spacing: 1px;
+}
+
+
+.size-title {
+
+	display: inline-block;
+	text-transform: uppercase;
+	font-weight: 300;
+	font-size: 14px;
+	margin-bottom: 10px;
+}
+
+
+.sizes li {
+	font-size: 12px;
+	font-weight: 400;
+	list-style: none;
+	display: inline-block;
+	border-radius: 50%;
+	border: 1px solid #000000;
+	height: 15px;
+	width: 15px;
+	padding:6px;
+	text-align: center;
+	display: inline-flex;
+  	align-items: center;
+  	justify-content: center;
+}
+
+.hollow-btn {
+	font-size: 12px;
+	font-weight: 600;
+	border: 2px solid #0202D9;
+	color: #0202D9;
+	display: inline-block;
+	padding: 10px;
+	text-transform: uppercase;
+	display: inline-flex;
+  	align-items: center;
+  	justify-content: center;
+	letter-spacing: 1px;
+	margin-top: 5px;
+	margin-right: 10px;
+}
+
+.price {
+	font-size: 20px;
+	font-weight: 700;
+	margin-right: 10px;
+	letter-spacing: 1px;
+	color: #000000;
+
+}
+
+.store-btn {
+	font-size: 12px;
+	font-weight: 500;
+	background: #F2F1F1;
+	display: inline-block;
+	padding: 10px;
+	border: 2px solid #000000;
+	text-transform: uppercase;
+	display: inline-flex;
+  	align-items: center;
+  	justify-content: center;
+	letter-spacing: 1px;
+	margin-top: 5px;
+}
+
